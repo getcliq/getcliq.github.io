@@ -8,7 +8,7 @@ function newDoc() {
 </script>
 </head>
 <body>
-
+test
 <input type="button" value="Load new document" onclick="newDoc()">
 
 </body>
